@@ -10260,7 +10260,7 @@ body {
 }
 
 .projects-section {
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10350,7 +10350,7 @@ body {
   padding: 2rem 0;
 }
 .team_intros{
-  padding: 0px 150px 50px 100px;
+  padding: 0px 150px 0px 100px;
 }
 .member {
   width: 100%;
@@ -10374,5 +10374,8 @@ body {
   margin: 10px;
   text-align: center;
   padding-left: 10px ;
+}
+.project-title{
+  padding-bottom: 30px;
 }
 
