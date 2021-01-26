@@ -10367,6 +10367,9 @@ body {
   padding: 5px 5px 5px 5px;
   text-align: center;
 }
+.h4{
+  text-emphasis-color: var(--green); 
+} 
 .member_desc{
   margin: 10px;
   text-align: center;
