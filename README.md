@@ -5,7 +5,7 @@
     <li>Joginder Kaur</li>
     <li>Reagan Asubonteng</li>
     <li>Britney Wu</li>
-    <li>Eitan</li>
+    <li>Eitan Khiyaev</li>
     <li>Cherrise Hatcher</li>
     <li>Fakhreddine Chaabani</li> 
     <li>Janelia Thompsan</li>
