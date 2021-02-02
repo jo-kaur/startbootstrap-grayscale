@@ -12,7 +12,7 @@
     <li>Shiven Nayee</li>
 </ul>
 
-<p> --------------------------------------------------------------------------------------------------------------------</p>
+<p> -------------------------------------------------------------------------------------------------------------------</p>
 <p>Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 Copyright and License
